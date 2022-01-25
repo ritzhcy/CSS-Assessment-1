@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+.one{
+    color: rgb(230, 15, 15);
+}
+.two{
+    color: rgb(206, 67, 67);
+    font-style: italic;
+}
+ol,ul,p{
+    color: rgb(117, 9, 9);
+    font-size: 18px;
+}
+.three{
+    text-decoration: line-through;
+    font-style: bold;
+}
+.four{
+    background-color: yellow; 
+    color: rgb(126, 9, 9);
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+.five{
+    background-color: yellow; 
+    color: rgb(126, 9, 9);
+}
+a{
+    background-color: yellow;
+    color: rgb(187, 16, 16);
+    text-decoration: none;
+    font-style: italic;
+    font-size: 18px;
+}
